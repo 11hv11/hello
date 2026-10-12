@@ -1,0 +1,11 @@
+# Local runtime dependencies and generated caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.pytest_cache/
+# Local credentials; keep the bundled .env.example files
+.env
+.env.local
+.agents/skills/nature-image2ppt/config.yaml
